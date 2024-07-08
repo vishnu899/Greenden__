@@ -34,9 +34,11 @@ Contributions are welcome! Please follow these steps:
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a pull request
- 
+
+ ##Desktop View
 ## screenshot(![Screenshot (34)](https://github.com/vishnu899/Greenden__/assets/173874095/e5d173e0-4d9e-4a34-8265-9c9ff693734a)
-)##Desktop View
+)
+ ##Mobile View
 ## screenshot(![Screenshot (35)](https://github.com/vishnu899/Greenden__/assets/173874095/044a3fed-4e3e-4ffa-9dd9-97cffe0152fa)
 )
 ## Contact
